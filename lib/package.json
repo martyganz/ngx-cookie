@@ -1,10 +1,10 @@
 {
-  "name": "ngx-cookie",
-  "version": "4.1.2",
+  "name": "@martyganz/ngx-cookie",
+  "version": "1.0.0",
   "description": "Implementation of Angular 1.x $cookies service to Angular",
   "repository": {
     "type": "git",
-    "url": "https://github.com/salemdar/ngx-cookie.git"
+    "url": "https://github.com/martyganz/ngx-cookie.git"
   },
   "keywords": [
     "angular2",
@@ -22,14 +22,11 @@
     "ngx-cookie",
     "ngx-cookies"
   ],
-  "author": "Samet Alemdar <sa.alemdar@hotmail.com>",
-  "contributors": [
-    "Hallyson Almeida <hallysonh@gmail.com>"
-  ],
+  "author": "Mart Ganzevles <martganzevles@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/salemdar/ngx-cookie#readme",
+  "homepage": "https://github.com/martyganz/ngx-cookie#readme",
   "bugs": {
-    "url": "https://github.com/salemdar/ngx-cookie/issues"
+    "url": "https://github.com/martyganz/ngx-cookie/issues"
   },
   "peerDependencies": {
     "@angular/common": ">=5.0.0",

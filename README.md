@@ -2,6 +2,7 @@
 
 
 > Implementation of Angular 1.x $cookies service to Angular. Successor of [angular2-cookie](https://github.com/salemdar/angular2-cookie)
+> Updated fork of https://github.com/salemdar/ngx-cookie
 
 ## Table of contents:
 - [Get Started](#get-started)
